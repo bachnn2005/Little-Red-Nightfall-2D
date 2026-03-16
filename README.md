@@ -1,347 +1,71 @@
 # 🐺 Little Red Nightfall
 
-A 2D roguelike survival action game developed with **Unity and C#**, inspired by the dark and gritty reimagining of the classic "Little Red Riding Hood" fairy tale.
+A dark 2D roguelike survival game built with **Unity and C#**, inspired by a darker reimagining of Little Red Riding Hood.
 
 **"In this forest, you are not the prey. You are the hunter."**
 
----
+## 🎮 Features
 
-## 🌟 Core Features
+- **Roguelike Gameplay**: Random skill upgrades on each level-up
+- **Intense Combat**: Fight waves of wolves and dark entities with escalating difficulty
+- **Parry System**: Master timing-based defensive mechanics
+- **Boss Encounters**: Challenging boss battles with unique patterns
+- **Pixel Art Style**: Dark fantasy aesthetic with atmospheric visuals
+- **Progression System**: Unlock permanent upgrades across runs
 
-### 🎮 Roguelike Gameplay
-- **Procedural Progression**: Random skill upgrades system with each level gained
-- **Unique Runs**: Every playthrough offers a different experience through varied power-up combinations
-- **Permadeath Mechanic**: Each run is a challenge; learn and adapt to survive longer
+## 🛠 Tech Stack
 
-### ⚔️ Intense Combat System
-- **Relentless Enemies**: Face waves of vicious wolves and dark entities
-- **Escalating Difficulty**: Enemy spawn rates and complexity increase over time
-- **Boss Encounters**: Epic battles against challenging bosses requiring tactical movement and reflexes
-- **Parry Mechanic**: Master timing-based defensive maneuvers to deflect incoming attacks
-
-### 🎨 Pixel Art Aesthetics
-- **Dark Fantasy Style**: Minimalist yet atmospheric pixel art with gothic vibes
-- **Visual Polish**: Smooth animations and impactful hit effects
-- **Immersive Atmosphere**: Environmental design that reinforces the dark forest setting
-
-### 💪 Character Progression
-- **Skill Tree System**: Unlock diverse abilities through randomized level-up choices
-- **Stat Upgrades**: Enhance health, damage, attack speed, and movement capabilities
-- **Meta Progression**: Discover permanent upgrades that carry across future runs
-
-### 🎯 Optimized UI/UX
-- **Health Bar**: Real-time visual feedback on player condition
-- **Experience Counter**: Track progress toward next level
-- **Wave System**: Monitor enemy spawn waves and difficulty scaling
-- **Results Screen**: Detailed end-of-run statistics and achievements
-
----
-
-## 🛠 Technology Stack
-
-### Core Technologies
-- **Engine**: Unity (2D with Universal Render Pipeline)
-- **Programming Language**: C#
-- **Input System**: Unity's Modern Input System
-- **Graphics**: Universal Render Pipeline (URP)
-- **UI Framework**: TextMesh Pro
-
-### Design Patterns
-- **State Pattern**: Monster AI behavior management (Idle, Chase, Attack, Death states)
-- **Observer Pattern**: Event-driven systems for Health, LevelUp, and Combat events
-- **Object Pooling**: Performance optimization for spawning large quantities of enemies
-- **Singleton Pattern**: Game manager and audio system management
-
-### Art & Audio
-- **Pixel Art Tool**: Aseprite
-- **Animation**: Frame-based sprite animations
-- **Sound Effects**: Spatial audio with impact feedback
-- **Music**: Dynamic ambient soundtrack
-
----
+- **Engine**: Unity 2D (Universal Render Pipeline)
+- **Language**: C#
+- **Patterns**: State Pattern (AI), Observer Pattern (Events), Object Pooling
+- **Art**: Pixel Art
+- **Audio**: SFX & Background Music
 
 ## 📁 Project Structure
 
 ```
-Little-Red-Nightfall-2D/
-├── Assets/
-│   ├── Scenes/                          # Game levels and menus
-│   ├── Player/                          # Player character prefabs, scripts, animations
-│   ├── Enemy/                           # Enemy AI, behaviors, prefabs
-│   ├── BG/                              # Background layers and parallax effects
-│   ├── Tileset/                         # Tilemap tilesets for forest levels
-│   ├── Material/                        # Materials, shaders, and visual effects
-│   ├── Sound/                           # Audio files, music, SFX
-│   ├── Settings/                        # Game configuration and gameplay tuning
-│   ├── Resources/                       # Runtime-loadable prefabs and data
-│   ├── Editor/                          # Custom Unity Editor tools
-│   ├── TextMesh Pro/                    # TextMesh Pro resources
-│   ├── VFXPACK_IMPACT_WALLCOEUR/       # Visual effects package (impacts, particles)
-│   ├── InputSystem_Actions.inputactions # Input mapping configuration
-│   ├── DefaultVolumeProfile.asset       # Post-processing settings
-│   └── _Recovery/                       # Backup and recovery assets
-├── Packages/                            # Unity package dependencies
-├── ProjectSettings/                     # Unity project configuration
-├── .gitignore                           # Git ignore rules
-└── .vsconfig                            # Visual Studio configuration
+Assets/
+├── Scenes/        # Game levels and menus
+├── Player/        # Player character and animations
+├── Enemy/         # Enemy AI and behaviors
+├── BG/            # Backgrounds and parallax
+├── Tileset/       # Level tilesets
+├── Sound/         # Audio and music
+├── Material/      # VFX and visual effects
+└── Settings/      # Game configuration
 ```
 
----
+## 🎮 Controls
 
-## 🎮 Gameplay Mechanics
+- **Movement**: Arrow Keys / WASD
+- **Jump**: Spacebar
+- **Attack**: Left Click / Ctrl
+- **Parry**: Right Click / Shift
 
-### Player Controls
-```
-Movement          → Arrow Keys / WASD
-Jump              → Spacebar
-Attack            → Left Mouse / Left Ctrl
-Parry/Defend      → Right Mouse / Right Shift
-```
-*Full customization available in `InputSystem_Actions.inputactions`*
+## 🚀 Quick Start
 
-### Core Mechanics
-
-#### Combat System
-- **Quick Attacks**: Fast, high-frequency basic strikes
-- **Parry Counter**: Successfully block to create opening for powerful counterattack
-- **Damage Scaling**: Increasing difficulty with enemy level and damage output
-
-#### Progression System
-```
-Run Start → Battle Enemies → Gain Experience → Level Up
-    ↓
-    ├─ Choose Skill Upgrade (Random from pool)
-    ├─ Increase Stats (Health/Damage/Speed)
-    └─ Face New Challenges
-    
-    Upon Death → Run Ends → Unlock Meta Progression
-```
-
-#### Enemy AI
-- **State Transitions**: Idle → Aggro → Chase → Attack → Death
-- **Behavior Trees**: Complex decision-making based on player proximity and health
-- **Wave System**: Controlled enemy spawning with difficulty escalation
-- **Special Abilities**: Boss enemies with unique attack patterns
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Unity 2021.3 LTS or later (or newer version)
-- Git for version control
-- Visual Studio or any C# IDE
-
-### Installation
-
-1. **Clone the Repository**
+1. Clone the repo:
 ```bash
 git clone https://github.com/bachnn2005/Little-Red-Nightfall-2D.git
-cd Little-Red-Nightfall-2D
 ```
 
-2. **Open in Unity**
-   - Launch Unity Hub
-   - Click "Open Project"
-   - Select the cloned `Little-Red-Nightfall-2D` folder
-   - Wait for scenes and assets to import (first import may take a few minutes)
+2. Open in Unity (2021.3 LTS or later)
+3. Load a scene from `Assets/Scenes/`
+4. Press Play
 
-3. **Load the Main Scene**
-   - Open `Assets/Scenes/` folder
-   - Double-click the main gameplay scene to load it
+## 📊 Upgrade System
 
-### Running the Game
+Each level-up grants random upgrades:
+- Damage Boost
+- Health Increase
+- Attack Speed
+- Movement Speed
+- Parry Window Enhancement
 
-**Play in Editor:**
-- Click the **Play** button in the Unity Editor toolbar
-- Press **Esc** to return to menu or exit
+## 📝 License
 
-**Build Standalone:**
-```
-File → Build Settings → Add Open Scenes → Build
-```
+MIT License
 
 ---
 
-## 🎯 Game Features in Detail
-
-### 🐺 Enemy Types
-- **Common Wolves**: Fast, aggressive melee attackers
-- **Dark Entities**: Mysterious creatures with ranged attacks
-- **Boss Enemies**: Unique encounter with special mechanics and higher health pool
-
-### 🎁 Upgrade System
-Each level grants one random upgrade from:
-- **Damage Boost**: +15% damage per stack
-- **Health Increase**: +25 Max HP per stack
-- **Attack Speed**: +10% attack speed per stack
-- **Movement Speed**: +20% movement speed per stack
-- **Parry Window**: +0.1s parry timing window per stack
-- **Lifesteal**: Restore X% health per hit
-
-### 📊 Difficulty Scaling
-- Wave 1-5: Introduction phase
-- Wave 6-15: Progressive difficulty ramp
-- Wave 16+: Intense endgame with powerful enemies
-
----
-
-## 🎨 Visual & Audio Assets
-
-### Graphics Organization
-```
-Assets/
-├── Tileset/                    # Level building tiles (16x16 pixel grid)
-├── Player/                     # Hero sprites and animations
-│   ├── idle.png               # Idle animation frames
-│   ├── jump.png               # Jump animation frames
-│   └── parry.anim             # Parry animation
-├── Enemy/                      # Enemy sprite sheets
-├── BG/                         # Parallax background layers
-└── VFXPACK_IMPACT_WALLCOEUR/  # Hit effects, particles, explosions
-```
-
-### Audio Configuration
-```
-Assets/Sound/
-├── Casual_Hit.wav             # Basic impact sound
-├── [Additional SFX files]
-├── [Music tracks]
-└── [Ambient sounds]
-```
-
----
-
-## 🔧 Project Configuration
-
-### Key Settings Files
-- **DefaultVolumeProfile.asset**: Post-processing (bloom, color grading, shadows)
-- **UniversalRenderPipelineGlobalSettings.asset**: URP rendering configuration
-- **InputSystem_Actions.inputactions**: Complete input mapping and rebind system
-
-### Performance Optimization
-- **Object Pooling**: Enemy prefabs are recycled to reduce instantiation overhead
-- **Sprite Batching**: Optimized draw calls through URP batching
-- **UI Canvas**: Separated canvases for each UI layer
-- **Audio Pooling**: Sound effects are pooled and reused
-
----
-
-## 📦 Dependencies
-
-- **TextMesh Pro**: Advanced text rendering for UI
-- **Universal Render Pipeline (URP)**: Lightweight rendering solution
-- **Input System Package**: Modern input handling
-- **Cinemachine**: Smooth camera follow system (recommended)
-- **Visual Effects Package**: Particle system enhancements
-
----
-
-## 🐛 Development
-
-### Code Structure
-```
-Player/
-├── PlayerController.cs        # Movement and input handling
-├── PlayerCombat.cs            # Attack and parry logic
-└── PlayerStats.cs             # Health, level, experience management
-
-Enemy/
-├── EnemyAI.cs                 # Base AI behavior
-├── EnemyState.cs              # State machine implementation
-├── EnemySpawner.cs            # Wave management and spawning
-└── BossController.cs          # Special boss behavior
-
-Manager/
-├── GameManager.cs             # Game flow and state
-├── WaveManager.cs             # Enemy wave progression
-├── UIManager.cs               # UI updates and transitions
-└── AudioManager.cs            # Sound and music control
-```
-
-### Extending the Game
-1. **New Enemies**: Inherit from `EnemyAI` base class
-2. **New Skills**: Add to upgrade pool in `SkillManager`
-3. **New Levels**: Create scenes and configure in `LevelManager`
-4. **Custom Effects**: Add particles to `VFXPACK_IMPACT_WALLCOEUR` folder
-
----
-
-## 🎯 Future Roadmap
-
-- [ ] Additional enemy types and variants
-- [ ] Mini-boss encounters
-- [ ] Weapon/equipment system
-- [ ] Narrative campaign progression
-- [ ] Multiple level biomes (dark forest, cursed castle, swamp)
-- [ ] Leaderboard system (local and cloud)
-- [ ] Achievements and unlockables
-- [ ] Sound design overhaul
-- [ ] Controller support (gamepad)
-- [ ] Difficulty settings (Easy, Normal, Hard, Nightmare)
-
----
-
-## 📝 Code Standards
-
-### Naming Conventions
-- **Classes**: PascalCase (e.g., `PlayerController`)
-- **Methods**: PascalCase (e.g., `GetDamage()`)
-- **Variables**: camelCase (e.g., `currentHealth`)
-- **Constants**: UPPER_SNAKE_CASE (e.g., `MAX_HEALTH`)
-
-### Commit Messages
-```
-[Feature] Description of new feature
-[Fix] Description of bug fix
-[Refactor] Code restructuring
-[Docs] Documentation updates
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Whether you're fixing bugs, adding features, or improving documentation:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m '[Feature] Amazing feature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👤 Author
-
-**bachnn2005** - [GitHub Profile](https://github.com/bachnn2005)
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by dark fantasy roguelike games
-- Pixel art influenced by classic action games
-- Sound design inspired by modern indie games
-- Community feedback and contributions
-
----
-
-## 📞 Support & Contact
-
-- Report bugs: [GitHub Issues](https://github.com/bachnn2005/Little-Red-Nightfall-2D/issues)
-- Discussions: [GitHub Discussions](https://github.com/bachnn2005/Little-Red-Nightfall-2D/discussions)
-
----
-
-**Last Updated**: March 16, 2026
-
-Enjoy playing **Little Red Nightfall 2D**! 🐺✨
-
-*"In this forest, only the strong survive. Will you be the hunter or the hunted?"*
+**Author**: bachnn2005 | **Last Updated**: March 2026
