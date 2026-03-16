@@ -1,5 +1,6 @@
 # 🐺 Little Red Nightfall
-
+Gameplay: https://www.youtube.com/watch?v=ABgDvRFDwaE
+Download: https://drive.google.com/file/d/173Q70fuLESvLasV9eW-d7KVm3ISAjIBD/view?usp=sharing
 A dark 2D roguelike survival game built with **Unity and C#**, inspired by a darker reimagining of Little Red Riding Hood.
 
 **"In this forest, you are not the prey. You are the hunter."**
