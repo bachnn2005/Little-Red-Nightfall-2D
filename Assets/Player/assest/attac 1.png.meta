@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 7c0ef377805825c4a8bc41c2ca739d4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6835740106846749180
+    second: attac 1_0
+  - first:
+      213: 9070286407137630479
+    second: attac 1_1
+  - first:
+      213: 5442575576810455603
+    second: attac 1_2
+  - first:
+      213: -1384768340762806491
+    second: attac 1_3
+  - first:
+      213: 8657416192187079381
+    second: attac 1_4
+  - first:
+      213: -4037570854334386934
+    second: attac 1_5
+  - first:
+      213: 8495884175438037096
+    second: attac 1_6
+  - first:
+      213: -4485171599871540402
+    second: attac 1_7
+  - first:
+      213: -3055440994006635037
+    second: attac 1_8
+  - first:
+      213: 1255887381164092642
+    second: attac 1_9
+  - first:
+      213: 1955865704128955736
+    second: attac 1_10
+  - first:
+      213: 6525275973189566817
+    second: attac 1_11
+  - first:
+      213: -4376386158061933026
+    second: attac 1_12
+  - first:
+      213: 7353243773541218751
+    second: attac 1_13
+  - first:
+      213: 5779256854881979071
+    second: attac 1_14
+  - first:
+      213: -8294204025104560838
+    second: attac 1_15
+  - first:
+      213: -973851971735059394
+    second: attac 1_16
+  - first:
+      213: 2299427721284657043
+    second: attac 1_17
+  - first:
+      213: -3543048893795637714
+    second: attac 1_18
+  - first:
+      213: 19195285404539684
+    second: attac 1_19
+  - first:
+      213: 4686763094810009941
+    second: attac 1_20
+  - first:
+      213: -8483721828761866992
+    second: attac 1_21
+  - first:
+      213: -8154035941054586762
+    second: attac 1_22
+  - first:
+      213: -91357686302324241
+    second: attac 1_23
+  - first:
+      213: 8284753690462614987
+    second: attac 1_24
+  - first:
+      213: -542171202913953271
+    second: attac 1_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attac 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 270
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1cd7de86d6dde50800000000000000
+      internalID: 6835740106846749180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 270
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f091e7c4e6120ed70800000000000000
+      internalID: 9070286407137630479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 270
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332010fa6a9e78b40800000000000000
+      internalID: 5442575576810455603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52730a8e78058cce0800000000000000
+      internalID: -1384768340762806491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 270
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da96086822552870800000000000000
+      internalID: 8657416192187079381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 270
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dadef23baa7f7c0800000000000000
+      internalID: -4037570854334386934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 270
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860c8d9f4a177e570800000000000000
+      internalID: 8495884175438037096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 270
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e438cf0813871c1c0800000000000000
+      internalID: -4485171599871540402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 270
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6118ba94e895d0800000000000000
+      internalID: -3055440994006635037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 270
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec6e205beecd6110800000000000000
+      internalID: 1255887381164092642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 270
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c9face71a42b10800000000000000
+      internalID: 1955865704128955736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 270
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1610b5bdcef6e8a50800000000000000
+      internalID: 6525275973189566817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_12
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 270
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e28c0f9f3f343c0800000000000000
+      internalID: -4376386158061933026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_13
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 270
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f6ccb048fb0660800000000000000
+      internalID: 7353243773541218751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_14
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 270
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4bfc5d7b043050800000000000000
+      internalID: 5779256854881979071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_15
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 270
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d070d326115ec80800000000000000
+      internalID: -8294204025104560838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_16
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 270
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e340be89ace2c72f0800000000000000
+      internalID: -973851971735059394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 270
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f9bd1645539ef10800000000000000
+      internalID: 2299427721284657043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_18
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 270
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26687f8dcf84dec0800000000000000
+      internalID: -3543048893795637714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_19
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 270
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b56e7a202344000800000000000000
+      internalID: 19195285404539684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_20
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 270
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551af84043aba0140800000000000000
+      internalID: 4686763094810009941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_21
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 270
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01deb6702f3c34a80800000000000000
+      internalID: -8483721828761866992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_22
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 270
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6706ca7738b07de80800000000000000
+      internalID: -8154035941054586762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_23
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 270
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9c2781bae6bbef0800000000000000
+      internalID: -91357686302324241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_24
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 270
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc571a3469b59f270800000000000000
+      internalID: 8284753690462614987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attac 1_25
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 270
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a1edad922d978f0800000000000000
+      internalID: -542171202913953271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      attac 1_0: 6835740106846749180
+      attac 1_1: 9070286407137630479
+      attac 1_10: 1955865704128955736
+      attac 1_11: 6525275973189566817
+      attac 1_12: -4376386158061933026
+      attac 1_13: 7353243773541218751
+      attac 1_14: 5779256854881979071
+      attac 1_15: -8294204025104560838
+      attac 1_16: -973851971735059394
+      attac 1_17: 2299427721284657043
+      attac 1_18: -3543048893795637714
+      attac 1_19: 19195285404539684
+      attac 1_2: 5442575576810455603
+      attac 1_20: 4686763094810009941
+      attac 1_21: -8483721828761866992
+      attac 1_22: -8154035941054586762
+      attac 1_23: -91357686302324241
+      attac 1_24: 8284753690462614987
+      attac 1_25: -542171202913953271
+      attac 1_3: -1384768340762806491
+      attac 1_4: 8657416192187079381
+      attac 1_5: -4037570854334386934
+      attac 1_6: 8495884175438037096
+      attac 1_7: -4485171599871540402
+      attac 1_8: -3055440994006635037
+      attac 1_9: 1255887381164092642
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

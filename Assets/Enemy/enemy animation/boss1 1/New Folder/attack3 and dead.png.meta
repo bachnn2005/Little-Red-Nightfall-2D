@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 720e9f917366100408044b4c10bcd368
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1186895759995274814
+    second: attack3 and dead_0
+  - first:
+      213: -1445946944595081961
+    second: attack3 and dead_1
+  - first:
+      213: -2653058179568100723
+    second: attack3 and dead_2
+  - first:
+      213: -3390737001156096469
+    second: attack3 and dead_3
+  - first:
+      213: 1712945787609639464
+    second: attack3 and dead_4
+  - first:
+      213: -7200493261654016691
+    second: attack3 and dead_5
+  - first:
+      213: -76724731414186276
+    second: attack3 and dead_6
+  - first:
+      213: -762056213064216084
+    second: attack3 and dead_7
+  - first:
+      213: -2167845271509598493
+    second: attack3 and dead_8
+  - first:
+      213: -7395871612594387367
+    second: attack3 and dead_9
+  - first:
+      213: -680380524273025262
+    second: attack3 and dead_10
+  - first:
+      213: 5835913624524171569
+    second: attack3 and dead_11
+  - first:
+      213: 5618579692153975540
+    second: attack3 and dead_12
+  - first:
+      213: -3420082260551674074
+    second: attack3 and dead_13
+  - first:
+      213: 1360262812140388081
+    second: attack3 and dead_14
+  - first:
+      213: -2288828098508880466
+    second: attack3 and dead_15
+  - first:
+      213: 3919633124904625421
+    second: attack3 and dead_16
+  - first:
+      213: -6903814346835782244
+    second: attack3 and dead_17
+  - first:
+      213: 4274600978203040051
+    second: attack3 and dead_18
+  - first:
+      213: 5722664923432844074
+    second: attack3 and dead_19
+  - first:
+      213: -8122800212104959594
+    second: attack3 and dead_20
+  - first:
+      213: -421357774904970795
+    second: attack3 and dead_21
+  - first:
+      213: 7556073761988320349
+    second: attack3 and dead_22
+  - first:
+      213: 5748424354020999319
+    second: attack3 and dead_23
+  - first:
+      213: -2965114005652138013
+    second: attack3 and dead_24
+  - first:
+      213: -1584991681263684436
+    second: attack3 and dead_25
+  - first:
+      213: 4955868822026127316
+    second: attack3 and dead_26
+  - first:
+      213: 1994042193409717672
+    second: attack3 and dead_27
+  - first:
+      213: -5885965190127233554
+    second: attack3 and dead_28
+  - first:
+      213: -4565004327040662832
+    second: attack3 and dead_29
+  - first:
+      213: 8422075493503144260
+    second: attack3 and dead_30
+  - first:
+      213: -528613145783765035
+    second: attack3 and dead_31
+  - first:
+      213: 7156332735510596360
+    second: attack3 and dead_32
+  - first:
+      213: 2571105008002079314
+    second: attack3 and dead_33
+  - first:
+      213: 4462342449114092810
+    second: attack3 and dead_34
+  - first:
+      213: -7346444183455087931
+    second: attack3 and dead_35
+  - first:
+      213: -426198970442747181
+    second: attack3 and dead_36
+  - first:
+      213: -6603026922432894435
+    second: attack3 and dead_37
+  - first:
+      213: 2472729986747300574
+    second: attack3 and dead_38
+  - first:
+      213: -5297106034349965030
+    second: attack3 and dead_39
+  - first:
+      213: -6304920643049247027
+    second: attack3 and dead_40
+  - first:
+      213: 1977843324309423425
+    second: attack3 and dead_41
+  - first:
+      213: -347329209957118424
+    second: attack3 and dead_42
+  - first:
+      213: -1213241887121092230
+    second: attack3 and dead_43
+  - first:
+      213: 8990966363460041573
+    second: attack3 and dead_44
+  - first:
+      213: -2688614540006895692
+    second: attack3 and dead_45
+  - first:
+      213: -4214831818858698473
+    second: attack3 and dead_46
+  - first:
+      213: -5012489849692591244
+    second: attack3 and dead_47
+  - first:
+      213: 5562180709914163895
+    second: attack3 and dead_48
+  - first:
+      213: -1576623705537831625
+    second: attack3 and dead_49
+  - first:
+      213: 6475948713344371230
+    second: attack3 and dead_50
+  - first:
+      213: 7254652928280317457
+    second: attack3 and dead_51
+  - first:
+      213: 3729028297677549244
+    second: attack3 and dead_52
+  - first:
+      213: -1480138693768899013
+    second: attack3 and dead_53
+  - first:
+      213: 374123472598758808
+    second: attack3 and dead_54
+  - first:
+      213: -9101767001724679473
+    second: attack3 and dead_55
+  - first:
+      213: -3317295960319989363
+    second: attack3 and dead_56
+  - first:
+      213: -4337757506702129241
+    second: attack3 and dead_57
+  - first:
+      213: -2419361620244731501
+    second: attack3 and dead_58
+  - first:
+      213: 9077443496550102660
+    second: attack3 and dead_59
+  - first:
+      213: 5390438122950473829
+    second: attack3 and dead_60
+  - first:
+      213: -8560317709262147463
+    second: attack3 and dead_61
+  - first:
+      213: -3969512931709070689
+    second: attack3 and dead_62
+  - first:
+      213: -6445991098811683838
+    second: attack3 and dead_63
+  - first:
+      213: -6559702107515312260
+    second: attack3 and dead_64
+  - first:
+      213: -2700011183297811867
+    second: attack3 and dead_65
+  - first:
+      213: 1753819183308897143
+    second: attack3 and dead_66
+  - first:
+      213: -8577371636920498067
+    second: attack3 and dead_67
+  - first:
+      213: -1544037782820275780
+    second: attack3 and dead_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack3 and dead_0
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 6239
+        width: 344
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e368fefb763b87010800000000000000
+      internalID: 1186895759995274814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5759
+        width: 308
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71549533ae6feebe0800000000000000
+      internalID: -1445946944595081961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 5759
+        width: 353
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a166664a17e2bd0800000000000000
+      internalID: -2653058179568100723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_3
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 5759
+        width: 356
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e415f89aea1f0d0800000000000000
+      internalID: -3390737001156096469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_4
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 5759
+        width: 359
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a69f54e1b95c710800000000000000
+      internalID: 1712945787609639464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_5
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 5729
+        width: 524
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db4834785b21c90800000000000000
+      internalID: -7200493261654016691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5408
+        width: 38
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f196634b6feef0800000000000000
+      internalID: -76724731414186276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5252
+        width: 461
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce19d6969e1ac65f0800000000000000
+      internalID: -762056213064216084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_8
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 5477
+        width: 26
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef8a716344ae1e0800000000000000
+      internalID: -2167845271509598493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_9
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 5492
+        width: 11
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568aee04f59c5990800000000000000
+      internalID: -7395871612594387367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_10
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 5537
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fbc9a948dce86f0800000000000000
+      internalID: -680380524273025262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_11
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 5252
+        width: 341
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13920a185845df050800000000000000
+      internalID: 5835913624524171569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_12
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 5279
+        width: 296
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2bf05267439fd40800000000000000
+      internalID: 5618579692153975540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_13
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 5390
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d33ded4d6980d0800000000000000
+      internalID: -3420082260551674074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_14
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 5252
+        width: 350
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe3dc612df90e210800000000000000
+      internalID: 1360262812140388081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_15
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 5423
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5027c98f27c30e0800000000000000
+      internalID: -2288828098508880466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_16
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 5252
+        width: 314
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056bcb5f85556630800000000000000
+      internalID: 3919633124904625421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_17
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 5396
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c959b95fd69b030a0800000000000000
+      internalID: -6903814346835782244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_18
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 5411
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339545e11fe625b30800000000000000
+      internalID: 4274600978203040051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5330
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7dc98d6dfa6f40800000000000000
+      internalID: 5722664923432844074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_20
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 5360
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69924085e34064f80800000000000000
+      internalID: -8122800212104959594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_21
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 5366
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b07f0659072af0800000000000000
+      internalID: -421357774904970795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_22
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 5333
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c96ff7d019cd860800000000000000
+      internalID: 7556073761988320349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_23
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 5252
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79040a75e7186cf40800000000000000
+      internalID: 5748424354020999319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_24
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 5306
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7919e858cc9d6d0800000000000000
+      internalID: -2965114005652138013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5279
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4345aa67af00ae0800000000000000
+      internalID: -1584991681263684436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_26
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5279
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d70d42bf68c6c440800000000000000
+      internalID: 4955868822026127316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_27
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 5279
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b35d5fc24cab10800000000000000
+      internalID: 1994042193409717672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_28
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 5258
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5d62248d9d05ea0800000000000000
+      internalID: -5885965190127233554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_29
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1439
+        width: 314
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ce9040c8d5a0c0800000000000000
+      internalID: -4565004327040662832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_30
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1439
+        width: 338
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44117cd0a0931e470800000000000000
+      internalID: 8422075493503144260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_31
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1439
+        width: 344
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7f4f5052df9a8f0800000000000000
+      internalID: -528613145783765035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_32
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1439
+        width: 272
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bcb9205b6605360800000000000000
+      internalID: 7156332735510596360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 959
+        width: 281
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a113ae1666ea320800000000000000
+      internalID: 2571105008002079314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_34
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 959
+        width: 272
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059791a0dc6ded30800000000000000
+      internalID: 4462342449114092810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_35
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 959
+        width: 269
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2cce230ff2c0a90800000000000000
+      internalID: -7346444183455087931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_36
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 959
+        width: 266
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d27f136b46d51af0800000000000000
+      internalID: -426198970442747181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_37
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 959
+        width: 266
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aeb069ff55d54a0800000000000000
+      internalID: -6603026922432894435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 479
+        width: 266
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda778562d6e05220800000000000000
+      internalID: 2472729986747300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_39
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 479
+        width: 266
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a110ef48026ec76b0800000000000000
+      internalID: -5297106034349965030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_40
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 479
+        width: 281
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcea50e741c6088a0800000000000000
+      internalID: -6304920643049247027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_41
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 479
+        width: 224
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14547de3606b27b10800000000000000
+      internalID: 1977843324309423425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_42
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 479
+        width: 290
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e836c7ce90e2bf0800000000000000
+      internalID: -347329209957118424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 389
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d5838ee2b92fe0800000000000000
+      internalID: -1213241887121092230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_44
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 500
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b7589754456cc70800000000000000
+      internalID: 8990966363460041573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_45
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 0
+        width: 365
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf40fc125f10bad0800000000000000
+      internalID: -2688614540006895692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_46
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 50
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e9e8bac8e185c0800000000000000
+      internalID: -4214831818858698473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_47
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b62dcf90f007ab0800000000000000
+      internalID: -5012489849692591244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_48
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 0
+        width: 356
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bab6fec2e5d03d40800000000000000
+      internalID: 5562180709914163895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_49
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 53
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d15f6d715be1ae0800000000000000
+      internalID: -1576623705537831625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_50
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 53
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a0a823b013fd950800000000000000
+      internalID: 6475948713344371230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_51
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 0
+        width: 366
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e45e6c664bda460800000000000000
+      internalID: 7254652928280317457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_52
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2370ca7b20c330800000000000000
+      internalID: 3729028297677549244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_53
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36189b33bd757be0800000000000000
+      internalID: -1480138693768899013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_54
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895726ee057213500800000000000000
+      internalID: 374123472598758808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_55
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 35
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca04d9922700b180800000000000000
+      internalID: -9101767001724679473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_56
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 35
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e94e56e896f1d0800000000000000
+      internalID: -3317295960319989363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_57
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a74c33b7803dc3c0800000000000000
+      internalID: -4337757506702129241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_58
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 35
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399691abc63bc6ed0800000000000000
+      internalID: -2419361620244731501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_59
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 20
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867c8804ce89fd70800000000000000
+      internalID: 9077443496550102660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_60
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 11
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568bf2eb9eeaeca40800000000000000
+      internalID: 5390438122950473829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_61
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b1fed564a33980800000000000000
+      internalID: -8560317709262147463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_62
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 14
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92592e150579e8c0800000000000000
+      internalID: -3969512931709070689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_63
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 8
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ceff97f3d3b86a0800000000000000
+      internalID: -6445991098811683838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_64
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 5
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c772b2120b147f4a0800000000000000
+      internalID: -6559702107515312260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_65
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa3f15222a78ad0800000000000000
+      internalID: -2700011183297811867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_66
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b746d4141d65810800000000000000
+      internalID: 1753819183308897143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_67
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68c7dae0fd07f880800000000000000
+      internalID: -8577371636920498067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack3 and dead_68
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9373331d9729ae0800000000000000
+      internalID: -1544037782820275780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      attack3 and dead_0: 1186895759995274814
+      attack3 and dead_1: -1445946944595081961
+      attack3 and dead_10: -680380524273025262
+      attack3 and dead_11: 5835913624524171569
+      attack3 and dead_12: 5618579692153975540
+      attack3 and dead_13: -3420082260551674074
+      attack3 and dead_14: 1360262812140388081
+      attack3 and dead_15: -2288828098508880466
+      attack3 and dead_16: 3919633124904625421
+      attack3 and dead_17: -6903814346835782244
+      attack3 and dead_18: 4274600978203040051
+      attack3 and dead_19: 5722664923432844074
+      attack3 and dead_2: -2653058179568100723
+      attack3 and dead_20: -8122800212104959594
+      attack3 and dead_21: -421357774904970795
+      attack3 and dead_22: 7556073761988320349
+      attack3 and dead_23: 5748424354020999319
+      attack3 and dead_24: -2965114005652138013
+      attack3 and dead_25: -1584991681263684436
+      attack3 and dead_26: 4955868822026127316
+      attack3 and dead_27: 1994042193409717672
+      attack3 and dead_28: -5885965190127233554
+      attack3 and dead_29: -4565004327040662832
+      attack3 and dead_3: -3390737001156096469
+      attack3 and dead_30: 8422075493503144260
+      attack3 and dead_31: -528613145783765035
+      attack3 and dead_32: 7156332735510596360
+      attack3 and dead_33: 2571105008002079314
+      attack3 and dead_34: 4462342449114092810
+      attack3 and dead_35: -7346444183455087931
+      attack3 and dead_36: -426198970442747181
+      attack3 and dead_37: -6603026922432894435
+      attack3 and dead_38: 2472729986747300574
+      attack3 and dead_39: -5297106034349965030
+      attack3 and dead_4: 1712945787609639464
+      attack3 and dead_40: -6304920643049247027
+      attack3 and dead_41: 1977843324309423425
+      attack3 and dead_42: -347329209957118424
+      attack3 and dead_43: -1213241887121092230
+      attack3 and dead_44: 8990966363460041573
+      attack3 and dead_45: -2688614540006895692
+      attack3 and dead_46: -4214831818858698473
+      attack3 and dead_47: -5012489849692591244
+      attack3 and dead_48: 5562180709914163895
+      attack3 and dead_49: -1576623705537831625
+      attack3 and dead_5: -7200493261654016691
+      attack3 and dead_50: 6475948713344371230
+      attack3 and dead_51: 7254652928280317457
+      attack3 and dead_52: 3729028297677549244
+      attack3 and dead_53: -1480138693768899013
+      attack3 and dead_54: 374123472598758808
+      attack3 and dead_55: -9101767001724679473
+      attack3 and dead_56: -3317295960319989363
+      attack3 and dead_57: -4337757506702129241
+      attack3 and dead_58: -2419361620244731501
+      attack3 and dead_59: 9077443496550102660
+      attack3 and dead_6: -76724731414186276
+      attack3 and dead_60: 5390438122950473829
+      attack3 and dead_61: -8560317709262147463
+      attack3 and dead_62: -3969512931709070689
+      attack3 and dead_63: -6445991098811683838
+      attack3 and dead_64: -6559702107515312260
+      attack3 and dead_65: -2700011183297811867
+      attack3 and dead_66: 1753819183308897143
+      attack3 and dead_67: -8577371636920498067
+      attack3 and dead_68: -1544037782820275780
+      attack3 and dead_7: -762056213064216084
+      attack3 and dead_8: -2167845271509598493
+      attack3 and dead_9: -7395871612594387367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

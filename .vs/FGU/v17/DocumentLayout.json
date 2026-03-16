@@ -1,0 +1,718 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity_Project\\FGU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridEditorUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\EnemyAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\EnemyAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\ParryEffectSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\ParryEffectSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\GamePauseUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\GamePauseUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy c#\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy\\enemy c#\\EnemySpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\EnemyHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\EnemyHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerHealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Tileset\\WaterZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tileset\\WaterZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\PlayerStatUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerStatUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Scenes\\mainmenu bg\\UI\\xp\\XPOrb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\mainmenu bg\\UI\\xp\\XPOrb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\PlayerLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\EnemyHealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\EnemyHealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy c#\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy\\enemy c#\\EnemyAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\PlayerStamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\PlayerStamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\BG\\ParallaxEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BG\\ParallaxEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Scenes\\VideoPingPong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\VideoPingPong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Scenes\\mainmenu bg\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\mainmenu bg\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy animation\\Dummy 1\\AutoDestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy\\enemy animation\\Dummy 1\\AutoDestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Material\\GrassExternalVelocityTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Material\\GrassExternalVelocityTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Casual_Hit\\Scripts\\Casual_Hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Casual_Hit\\Scripts\\Casual_Hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\assest\\player animation\\PlayerOneWayPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\assest\\player animation\\PlayerOneWayPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\CameraBounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\CameraBounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\SpriteExtractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tileset\\grass\\SpriteExtractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Player\\assest\\PlayerOneWayPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Player\\assest\\PlayerOneWayPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Material\\GrassVelocityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Material\\GrassVelocityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\GrassIndividualProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tileset\\grass\\GrassIndividualProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821074A-04F9-EBCB-6D85-5B98635E5D24}|Unity.PixelGraphics.csproj|c:\\users\\gigabyte\\music\\fgu\\tileset\\fantasy swamp forest\\free\\code\\pixelgraphics-master\\runtime\\shaders\\velocity\\blit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\DebugVelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tileset\\grass\\DebugVelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.render-pipelines.universal@66e99ffa09c7\\Runtime\\2D\\Rendergraph\\Renderer2DRendergraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@66e99ffa09c7\\Runtime\\2D\\Rendergraph\\Renderer2DRendergraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\GrassManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Tileset\\grass\\GrassManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridPaintPaletteClipboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridPaintPaletteClipboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Assets\\Enemy\\Dummy\\AutoDestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Enemy\\Dummy\\AutoDestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821074A-04F9-EBCB-6D85-5B98635E5D24}|Unity.PixelGraphics.csproj|C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Common\\ShaderIds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E4CA06-5BC5-3D8E-DF35-4A09EE85BCD4}|Unity.PixelGraphics.Editor.csproj|C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Editor\\Common\\VelocityEmitterEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Common\\VelocityEmitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\com.aarthificial.pixelgraphics\\Runtime\\Common\\VelocityEmitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Forward\\VelocityRenderFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\com.aarthificial.pixelgraphics\\Runtime\\Forward\\VelocityRenderFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Universal\\VelocityCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\com.aarthificial.pixelgraphics\\Runtime\\Universal\\VelocityCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Shaders\\Velocity\\Blit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Packages\\com.aarthificial.pixelgraphics\\Runtime\\Shaders\\Velocity\\Blit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821074A-04F9-EBCB-6D85-5B98635E5D24}|Unity.PixelGraphics.csproj|C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Common\\VelocityEmitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821074A-04F9-EBCB-6D85-5B98635E5D24}|Unity.PixelGraphics.csproj|C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Forward\\VelocityRenderFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821074A-04F9-EBCB-6D85-5B98635E5D24}|Unity.PixelGraphics.csproj|C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Universal\\VelocityCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6821074A-04F9-EBCB-6D85-5B98635E5D24}|Unity.PixelGraphics.csproj|C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Forward\\VelocityRenderPass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy c#\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\enemy c#\\EnemyAI.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy c#\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Enemy\\enemy c#\\EnemyAI.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAgwOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T04:54:29.968Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParryEffectSound.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\ParryEffectSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\ParryEffectSound.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\ParryEffectSound.cs",
+              "RelativeToolTip": "Assets\\Player\\ParryEffectSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T03:42:44.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy c#\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\enemy c#\\EnemySpawner.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy c#\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Enemy\\enemy c#\\EnemySpawner.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:35:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XPOrb.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Scenes\\mainmenu bg\\UI\\xp\\XPOrb.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\mainmenu bg\\UI\\xp\\XPOrb.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Scenes\\mainmenu bg\\UI\\xp\\XPOrb.cs",
+              "RelativeToolTip": "Assets\\Scenes\\mainmenu bg\\UI\\xp\\XPOrb.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:33:27.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerLevel.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerLevel.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerLevel.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerLevel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:02:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerStatUI.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerStatUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerStatUI.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerStatUI.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerStatUI.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:22:02.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyHealthBar.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\EnemyHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\EnemyHealthBar.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\EnemyHealthBar.cs",
+              "RelativeToolTip": "Assets\\Player\\EnemyHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:23:34.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerAttack.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAQwIEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:57:19.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerMovement.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwJ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T03:27:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\EnemyAttack.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Player\\EnemyAttack.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:01:52.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridEditorUtility.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridEditorUtility.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridEditorUtility.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridEditorUtility.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridEditorUtility.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwCMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:42:50.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePauseUI.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\GamePauseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\GamePauseUI.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\GamePauseUI.cs",
+              "RelativeToolTip": "Assets\\Player\\GamePauseUI.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T08:13:49.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\EnemyHealth.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Player\\EnemyHealth.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAmwM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:42:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerHealth.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAmwPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:00:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WaterZone.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Tileset\\WaterZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Tileset\\WaterZone.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Tileset\\WaterZone.cs",
+              "RelativeToolTip": "Assets\\Tileset\\WaterZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T10:24:32.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParallaxEffect.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\BG\\ParallaxEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\BG\\ParallaxEffect.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\BG\\ParallaxEffect.cs",
+              "RelativeToolTip": "Assets\\BG\\ParallaxEffect.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:54:17.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "VelocityEmitter.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Common\\VelocityEmitter.cs",
+              "RelativeDocumentMoniker": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Common\\VelocityEmitter.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Common\\VelocityEmitter.cs",
+              "RelativeToolTip": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Common\\VelocityEmitter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:52:08.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SpriteExtractor.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\SpriteExtractor.cs",
+              "RelativeDocumentMoniker": "Assets\\Tileset\\grass\\SpriteExtractor.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\SpriteExtractor.cs",
+              "RelativeToolTip": "Assets\\Tileset\\grass\\SpriteExtractor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:02:20.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutoDestroy.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy animation\\Dummy 1\\AutoDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\enemy animation\\Dummy 1\\AutoDestroy.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Enemy\\enemy animation\\Dummy 1\\AutoDestroy.cs",
+              "RelativeToolTip": "Assets\\Enemy\\enemy animation\\Dummy 1\\AutoDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T10:16:07.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerStamina.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerStamina.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\PlayerStamina.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\PlayerStamina.cs",
+              "RelativeToolTip": "Assets\\Player\\PlayerStamina.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T07:51:09.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Scenes\\mainmenu bg\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\mainmenu bg\\MainMenu.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Scenes\\mainmenu bg\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scenes\\mainmenu bg\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T07:21:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VideoPingPong.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Scenes\\VideoPingPong.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\VideoPingPong.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Scenes\\VideoPingPong.cs",
+              "RelativeToolTip": "Assets\\Scenes\\VideoPingPong.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:44:26.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GrassVelocityController.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Material\\GrassVelocityController.cs",
+              "RelativeDocumentMoniker": "Assets\\Material\\GrassVelocityController.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Material\\GrassVelocityController.cs",
+              "RelativeToolTip": "Assets\\Material\\GrassVelocityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:12:23.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GrassExternalVelocityTrigger.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Material\\GrassExternalVelocityTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Material\\GrassExternalVelocityTrigger.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Material\\GrassExternalVelocityTrigger.cs",
+              "RelativeToolTip": "Assets\\Material\\GrassExternalVelocityTrigger.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:16:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Casual_Hit.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Casual_Hit\\Scripts\\Casual_Hit.cs",
+              "RelativeDocumentMoniker": "Assets\\Casual_Hit\\Scripts\\Casual_Hit.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Casual_Hit\\Scripts\\Casual_Hit.cs",
+              "RelativeToolTip": "Assets\\Casual_Hit\\Scripts\\Casual_Hit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T06:41:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerOneWayPlatform.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\assest\\PlayerOneWayPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\assest\\PlayerOneWayPlatform.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\assest\\PlayerOneWayPlatform.cs",
+              "RelativeToolTip": "Assets\\Player\\assest\\PlayerOneWayPlatform.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:50:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraBounds.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\CameraBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\CameraBounds.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\CameraBounds.cs",
+              "RelativeToolTip": "Assets\\Player\\CameraBounds.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T07:41:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerOneWayPlatform.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Player\\assest\\player animation\\PlayerOneWayPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Player\\assest\\player animation\\PlayerOneWayPlatform.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Player\\assest\\player animation\\PlayerOneWayPlatform.cs",
+              "RelativeToolTip": "Assets\\Player\\assest\\player animation\\PlayerOneWayPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:34:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "VelocityRenderFeature.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Forward\\VelocityRenderFeature.cs",
+              "RelativeDocumentMoniker": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Forward\\VelocityRenderFeature.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Forward\\VelocityRenderFeature.cs",
+              "RelativeToolTip": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Forward\\VelocityRenderFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:44:21.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VelocityCamera.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Universal\\VelocityCamera.cs",
+              "RelativeDocumentMoniker": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Universal\\VelocityCamera.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Universal\\VelocityCamera.cs",
+              "RelativeToolTip": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Universal\\VelocityCamera.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAQwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:41:06.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GrassIndividualProperty.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\GrassIndividualProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\Tileset\\grass\\GrassIndividualProperty.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\GrassIndividualProperty.cs",
+              "RelativeToolTip": "Assets\\Tileset\\grass\\GrassIndividualProperty.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:00:44.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Blit.shader",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Shaders\\Velocity\\Blit.shader",
+              "RelativeDocumentMoniker": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Shaders\\Velocity\\Blit.shader",
+              "ToolTip": "E:\\unity_Project\\FGU\\Packages\\com.aarthificial.pixelgraphics\\Runtime\\Shaders\\Velocity\\Blit.shader",
+              "RelativeToolTip": "Packages\\com.aarthificial.pixelgraphics\\Runtime\\Shaders\\Velocity\\Blit.shader",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-01-17T06:31:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DebugVelocity.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\DebugVelocity.cs",
+              "RelativeDocumentMoniker": "Assets\\Tileset\\grass\\DebugVelocity.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\DebugVelocity.cs",
+              "RelativeToolTip": "Assets\\Tileset\\grass\\DebugVelocity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T07:17:54.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GrassManager.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\GrassManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Tileset\\grass\\GrassManager.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Tileset\\grass\\GrassManager.cs",
+              "RelativeToolTip": "Assets\\Tileset\\grass\\GrassManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:12:04.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Renderer2DRendergraph.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.render-pipelines.universal@66e99ffa09c7\\Runtime\\2D\\Rendergraph\\Renderer2DRendergraph.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@66e99ffa09c7\\Runtime\\2D\\Rendergraph\\Renderer2DRendergraph.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.render-pipelines.universal@66e99ffa09c7\\Runtime\\2D\\Rendergraph\\Renderer2DRendergraph.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@66e99ffa09c7\\Runtime\\2D\\Rendergraph\\Renderer2DRendergraph.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAQwC8BAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T03:16:10.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AutoDestroy.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Assets\\Enemy\\Dummy\\AutoDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy\\Dummy\\AutoDestroy.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Assets\\Enemy\\Dummy\\AutoDestroy.cs",
+              "RelativeToolTip": "Assets\\Enemy\\Dummy\\AutoDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:07:15.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GridPaintPaletteClipboard.cs",
+              "DocumentMoniker": "E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridPaintPaletteClipboard.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridPaintPaletteClipboard.cs",
+              "ToolTip": "E:\\unity_Project\\FGU\\Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridPaintPaletteClipboard.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@28bd01071fd5\\Editor\\GridPaintPaletteClipboard.cs",
+              "ViewState": "AgIAAGoHAAAAAAAAAAAcwIwHAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:18:04.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Blit.shader",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Shaders\\Velocity\\Blit.shader",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Shaders\\Velocity\\Blit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-01-17T05:03:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShaderIds.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Common\\ShaderIds.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Common\\ShaderIds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T07:04:49.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "VelocityEmitterEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Editor\\Common\\VelocityEmitterEditor.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Editor\\Common\\VelocityEmitterEditor.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAgwHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:52:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VelocityEmitter.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Common\\VelocityEmitter.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Common\\VelocityEmitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T03:25:55.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VelocityRenderFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Forward\\VelocityRenderFeature.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Forward\\VelocityRenderFeature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:04:37.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VelocityCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Universal\\VelocityCamera.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Universal\\VelocityCamera.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAgwGwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T01:04:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VelocityRenderPass.cs",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Forward\\VelocityRenderPass.cs",
+              "ToolTip": "C:\\Users\\Gigabyte\\Music\\fgu\\tileset\\Fantasy Swamp Forest\\Free\\code\\pixelgraphics-master\\Runtime\\Forward\\VelocityRenderPass.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:05:10.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
